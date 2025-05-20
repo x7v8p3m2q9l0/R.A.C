@@ -1,0 +1,15 @@
+{
+    "admins": {
+        "bb08b762-9015-4974-a4dd-96581e4dcefa": {
+            "name": "admin",
+            "role": "superadmin",
+            "key": "lPiFNu8lUEVxqEKE7RM1W/r957VjxGYRMcWXYuDc42c="
+        }
+    },
+    "clients": {
+        "3ad84786-8633-4471-9934-027f7a5f1d3b": {
+            "name": "test",
+            "key": "R7o/rYTFDrIXLbqV231tOHtdg91jU/v2u5nxK+IMq9U="
+        }
+    }
+}
